@@ -25,8 +25,4 @@ At Pet Food Store, we are committed to the health and happiness of your furry co
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-For more information, visit [Pet Food Store](#).
-
-> Note: This README is a template and may require further customization for your specific project.
