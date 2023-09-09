@@ -18,7 +18,6 @@ Welcome to the **Pet Food Store** – Your Trusted Source for Premium Pet Nutrit
 
 At Pet Food Store, we are committed to the health and happiness of your furry companions. Our mission is to provide high-quality, all-natural pet food sourced from the USA. Our formulations prioritize the well-being of your pets, offering nutrition that helps them thrive.
 
-![About Us](https://d.newsweek.com/en/full/2259123/dog.jpg?w=790&f=1ff4f57a5a09736dc579c18884d1c83a)
 
 
 
